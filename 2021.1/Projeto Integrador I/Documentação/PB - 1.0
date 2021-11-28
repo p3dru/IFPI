@@ -1,0 +1,39 @@
+Técnicas de levantamento de requisitos utilizadas
+
+As técnicas de elicitação de requisitos utilizadas para a realização do Product Backlog presente nesse documento, foram:
+Descobertas de requisitos (Ponto de vista): Onde os requisitos são conhecidos apartir de pontos de vista distintos.  
+Entrevistas não estruturadas: Onde os requisitos são conhecidos a partir de perguntas direcionadas à possíveis usuários do produto final, mantendo flexibilidade à respeito das perguntas, podendo o entrevistador/elicitador de requisitos, moldar o rumo da entrevista para o que lhe parecer mais apropriado ou útil.
+
+Histórias de usuários
+
+Como um usuário do sistema, eu quero poder ter acesso ao meu saldo, para ter mais controle sobre minha conta.
+Como um usuário do sistema, eu desejo informações de contato, para que possamos tirar dúvidas ou para informar problemas.
+Como um usuário, eu gostaria de recarregar meu passe de ônibus remotamente, para evitar perder tempo em filas.
+Como um usuário, eu gostaria que o sistema a opção de poder recarregar os passes com cartões de crédito, para facilitar o câmbio.
+Como um usuário, gostaria de um sistema fácil de usar.
+Como um usuário, gostaria de poder ver as transações que fiz no sistema, para ter mais confiança no sistema.
+Como um usuário, gostaria de ter a comodidade de poder comprar ingressos com meu saldo, para ter mais controle.
+Como um usuário, gostaria de poder recarregar meu celular.
+Como um usuário, gostaria que o sistema pudesse informar quantos passes ainda tenho no cartão, para que não seja preciso arriscar em uma viagem sem passes.
+Como um usuário, gostaria de poder desbloquear o cartão de passes para evitar pegar filas.
+Como um usuário, gostaria de visualizar as linhas de ônibus para saber quais opções tenho no meu percurso.
+Como um usuário, eu quero que o sistema possa emitir boletos como uma forma de pagamento.
+
+Product Backlog (versão 1)
+
+ITEM	DESCRIÇÃO	PRIORIDADE	STATUS	DATA DE SOLICITAÇÃO
+001	Criar área para saldo	02	Pendente	17/04/2021
+002	Criar área de informações	02	Pendente	17/04/2021
+003	Home	01	Em andamento	17/04/2021
+004	Permitir login ao usuário	01	Em andamento	17/04/2021
+005	Realizar recarga de passes via saldo	02	Pendente	17/04/2021
+006	Realizar recarga de passes via boleto	04	Pendente	17/04/2021
+007	Realizar recarga de passes via cartão de crédito	04	Pendente	17/04/2021
+008	Interface simplificada	Indefinida	Em andamento	17/04/2021
+009	Permitir a visualização de dados das transações em histórico	03	Pendente	17/04/2021
+010	Permitir acesso à compras de ingressos de cinema	05	Pendente	17/04/2021
+011	Permitir recarga de celular	05	Pendente	17/04/2021
+012	Fazer a conversão direta do saldo para passes e exibir	03	Pendente	17/04/2021
+013	Permitir desbloqueio do cartão de passes	05	Pendente	17/04/2021
+014	Realizar consulta de linhas de ônibus	06	Pendente	17/04/2021
+015	Permitir a recarga de passes via boleto	04	Pendente	17/04/2021
