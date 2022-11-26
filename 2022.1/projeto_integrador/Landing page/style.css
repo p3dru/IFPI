@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Caveat&family=Cormorant+Garamond:wght@300&family=Dancing+Script&family=Pacifico&family=Redressed&family=Shizuru&family=Space+Mono&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #222020 30.62%, 	#c2715d 82.00%);
+}
+ 
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.cabecalho-imagem{
+    height: 72px;
+}
+
+.cabecalho-menu{
+    display: flex;
+    gap: 32px;
+}
+
+.cabecalho-menu-item{
+    font-family: 'Pacifico', cursive;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.conteudo{
+    margin-bottom: 48px;
+    border-top: 0.4px solid #FFF2E7;
+}
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.conteudo-principal-escrito{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    color: #FFF2E7;
+
+}
+
+.conteudo-titulo-escrito-bemvindo{
+    font-family: 'Pacifico', cursive;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 40px;
+    padding: 24px;
+}
+
+.conteudo-principal-escrito-resumo{
+    font-family: 'Space Mono', monospace;
+    color: #fff2E7;
+    font-size: 18px;
+}
+
+.conteudo-principal-escrito-resumo-explicacao{
+    font-family: 'Space Mono', monospace;
+    color: #fff2E7;
+    font-size: 18px;
+}
+
+.conteudo-imagem{
+    height: 300px;
+}
+
+.conteudo-proposito{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+    gap: 32px;
+}
+
+.conteudo-proposito-pergunta{
+    font-family: 'Space Mono', monospace;
+    color: #fff2E7;
+    font-size: 18px;
+}
+
+.conteudo-proposito-resposta{
+    font-family: 'Space Mono', monospace;
+    color: #fff2E7;
+    font-size: 18px;
+}
+
+.conteudo-dois-imagem{
+    height: 300px;
+}
+
+.conteudo-grupo{
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.conteudo-grupo-escrito-grupo{
+    font-family: 'Space Mono', monospace;
+    color: #FFF2E7;
+    font-size: 18px;
+}
+
+.conteudo-grupo-escrito-grupo-integrante{
+    font-family: 'Space Mono', monospace;
+    color: #FFF2E7;
+    font-size: 18px;
+}
+
+.rodape{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 48px;
+    border-top: 0.4px solid #fff2E7;
+    align-items: left;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.rodape-disciplina{
+    font-family: 'Space Mono', monospace;
+    color: #FFF2E7;
+    font-size: 12px;
+}
+
+.rodape-ano{
+    font-family: 'Space Mono', monospace;
+    color: #FFF2E7;
+    font-size: 12px;
+}
+
+.rodape-instituicao{
+    font-family: 'Space Mono', monospace;
+    color: #FFF2E7;
+    font-size: 12px;
+}
